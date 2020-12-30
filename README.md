@@ -108,7 +108,19 @@ importante variables such as deforestation area of Amazonia, atmospheric
 pressure and exogenous climatic variables such as proxy-data given by the
 gulf stream should be taken into account.
 
-### Some visualizations [(link for the slides used to present the project)]()
+### Preview of some visualizations [(link for the slides used to present the project)](https://github.com/Andreoliveira85/My-first-data-project/blob/main/andre_presentation_essentials_jedha.pdf)
+
+![](https://github.com/Andreoliveira85/My-first-data-project/blob/main/first_project_image1.jpg)
+
+![](https://github.com/Andreoliveira85/My-first-data-project/blob/main/first_project_image2.jpg)
+
+![](https://github.com/Andreoliveira85/My-first-data-project/blob/main/first_project_image3.jpg)
+
+![](https://github.com/Andreoliveira85/My-first-data-project/blob/main/first_project_image4.jpg)
+
+![](https://github.com/Andreoliveira85/My-first-data-project/blob/main/first_project_image5.jpg)
+
+
 
 ## Code/resources used:
 **Python version:** 3.7
